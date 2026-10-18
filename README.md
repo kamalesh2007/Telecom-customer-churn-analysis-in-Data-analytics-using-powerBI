@@ -1,4 +1,4 @@
-# TELECOM CUSTOMER CHURN ANALYSIS USING POWER BI AND MACHINE LEARNING
+# TELECOM CUSTOMER CHURN ANALYSIS IN DATA ANALYTICS USING POWER BI 
 
 ## 📌 Project Overview
 
@@ -56,4 +56,6 @@ These attributes are analyzed to understand customer behaviour and identify fact
 
 ## 👨‍💻 Author
 
-**Project:** Telecom Customer Churn Analysis Using Power BI and Machine Learning
+**Project:** Telecom Customer Churn Analysis in data analytics using power bi
+
+
